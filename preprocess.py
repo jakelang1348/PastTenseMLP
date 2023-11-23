@@ -13,7 +13,7 @@ from datetime import datetime
 from sklearn.model_selection import train_test_split
 from collections import Counter
 from torch.nn.utils.rnn import pad_sequence
-filepath = '/content/drive/MyDrive/ling441/phonemized_forms.txt'
+filepath = 'phonemized_forms.txt'
 
 
 
